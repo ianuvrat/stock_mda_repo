@@ -1,0 +1,10 @@
+dash==2.7.1
+dash_core_components==2.0.0
+dash_html_components==2.0.0
+numpy==1.24.1
+openai==0.26.4
+pandas==1.5.2
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+gunicorn
+dash-tools
